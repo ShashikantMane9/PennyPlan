@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="blue">#79E0EE</color>
+    <color name="green">#98EECC</color>
+    <color name="purple">#B799FF</color>
+    <color name="light">#FFCEFE</color>
+    <color name="light2">#FDEBED</color>
+
+    <color name="grey">#555555</color>
+    <color name="lightgreen">#4CAF50</color>
+    <color name="red">#EF0D26</color>
+
+    <color name="category1">#FF5C5C</color>
+    <color name="category2">#E88818</color>
+    <color name="category3">#71FF69</color>
+    <color name="category4">#22F051</color>
+    <color name="category5">#FF5C5C</color>
+    <color name="category6">#5967FF</color>
+    <color name="category7">#936EEC</color>
+    <color name="category8">#2BA1CD</color>
+    <color name="category9">#FFE84C</color>
+    <color name="category10">#2DBC4E</color>
+    <color name="category11">#36D8A7</color>
+    <color name="category12">#E018B2</color>
+    <color name="category13">#F437FF</color>
+    <color name="category14">#A82BA8</color>
+
+
+    <color name="bank_color">#8BC34A</color>
+    <color name="cash_color">#FF5722</color>
+    <color name="credit_color">#9C27B0</color>
+    <color name="debit_color">#009688</color>
+    <color name="default_color">#575757</color>
+
+
+</resources>
